@@ -8,9 +8,13 @@ KPI’s requirement
 We need to analyze the key indicators for our Pizza sales data to gain insights into our business performance, we want to calculate the following metrics :
 
 •	Total Revenue
+
 •	Total Orders
+
 •	Average Order Value
+
 •	Total Pizzas Sold
+
 •	Average Pizzas Per Order
 
 **OBJECTIVES**
@@ -34,7 +38,7 @@ Conduct a comprehensive sales performance analysis for a fastfood store using SQ
 **DATA UNDERSTANDING**
 
 1. Dataset description
-Source : Kaggle
+**Source : Kaggle**
 
 Format : .csv
 
